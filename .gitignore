@@ -1,0 +1,20 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+ 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ 
+# Scrapy
+.scrapy/
+
+ 
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
