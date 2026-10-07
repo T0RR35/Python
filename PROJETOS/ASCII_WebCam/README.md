@@ -4,7 +4,7 @@ Este é um espelho ASCII em tempo real: o script captura a imagem da webcam e a 
 
 ## Captura de Tela
 
-| <img src="https://github.com/T0RR35/Python/tree/main/PROJETOS/ASCII_WebCam/imgs/print.png" alt="Print" width="1000"/> |
+| <img src="https://github.com/T0RR35/Python/blob/main/PROJETOS/ASCII_WebCam/imgs/print.png" alt="Print" width="1000"/> |
 |:--------------------------------------------------------------:|
 |                        Captura de Tela                         |
 
